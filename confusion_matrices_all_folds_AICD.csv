@@ -1,0 +1,1081 @@
+model,sampler,fold,tn,fp,fn,tp
+ANN,No Sampling,1,138,12,31,19
+ANN,No Sampling,2,142,8,31,19
+ANN,No Sampling,3,133,18,26,23
+ANN,No Sampling,4,142,9,24,25
+ANN,No Sampling,5,134,17,14,35
+ANN,No Sampling,6,142,8,25,25
+ANN,No Sampling,7,134,16,22,28
+ANN,No Sampling,8,138,13,19,30
+ANN,No Sampling,9,136,15,27,22
+ANN,No Sampling,10,141,10,31,18
+ANN,No Sampling,11,133,17,25,25
+ANN,No Sampling,12,139,11,21,29
+ANN,No Sampling,13,140,11,19,30
+ANN,No Sampling,14,139,12,29,20
+ANN,No Sampling,15,143,8,27,22
+ANN,Cost Sensitive,1,132,18,28,22
+ANN,Cost Sensitive,2,140,10,27,23
+ANN,Cost Sensitive,3,121,30,19,30
+ANN,Cost Sensitive,4,139,12,22,27
+ANN,Cost Sensitive,5,125,26,13,36
+ANN,Cost Sensitive,6,130,20,17,33
+ANN,Cost Sensitive,7,131,19,17,33
+ANN,Cost Sensitive,8,134,17,14,35
+ANN,Cost Sensitive,9,134,17,19,30
+ANN,Cost Sensitive,10,133,18,23,26
+ANN,Cost Sensitive,11,124,26,14,36
+ANN,Cost Sensitive,12,130,20,18,32
+ANN,Cost Sensitive,13,137,14,19,30
+ANN,Cost Sensitive,14,134,17,23,26
+ANN,Cost Sensitive,15,137,14,26,23
+ANN,RandomOverSampler,1,135,15,33,17
+ANN,RandomOverSampler,2,137,13,28,22
+ANN,RandomOverSampler,3,130,21,24,25
+ANN,RandomOverSampler,4,134,17,20,29
+ANN,RandomOverSampler,5,127,24,19,30
+ANN,RandomOverSampler,6,135,15,22,28
+ANN,RandomOverSampler,7,133,17,21,29
+ANN,RandomOverSampler,8,135,16,25,24
+ANN,RandomOverSampler,9,129,22,16,33
+ANN,RandomOverSampler,10,138,13,25,24
+ANN,RandomOverSampler,11,124,26,21,29
+ANN,RandomOverSampler,12,135,15,19,31
+ANN,RandomOverSampler,13,133,18,19,30
+ANN,RandomOverSampler,14,138,13,23,26
+ANN,RandomOverSampler,15,132,19,23,26
+ANN,SMOTE,1,136,14,31,19
+ANN,SMOTE,2,141,9,24,26
+ANN,SMOTE,3,131,20,25,24
+ANN,SMOTE,4,131,20,20,29
+ANN,SMOTE,5,128,23,18,31
+ANN,SMOTE,6,134,16,24,26
+ANN,SMOTE,7,135,15,22,28
+ANN,SMOTE,8,136,15,23,26
+ANN,SMOTE,9,129,22,17,32
+ANN,SMOTE,10,142,9,32,17
+ANN,SMOTE,11,126,24,18,32
+ANN,SMOTE,12,137,13,21,29
+ANN,SMOTE,13,131,20,17,32
+ANN,SMOTE,14,139,12,22,27
+ANN,SMOTE,15,134,17,24,25
+ANN,ADASYN,1,130,20,29,21
+ANN,ADASYN,2,147,3,39,11
+ANN,ADASYN,3,132,19,26,23
+ANN,ADASYN,4,136,15,28,21
+ANN,ADASYN,5,136,15,27,22
+ANN,ADASYN,6,136,14,23,27
+ANN,ADASYN,7,142,8,28,22
+ANN,ADASYN,8,138,13,26,23
+ANN,ADASYN,9,130,21,17,32
+ANN,ADASYN,10,138,13,28,21
+ANN,ADASYN,11,128,22,22,28
+ANN,ADASYN,12,132,18,13,37
+ANN,ADASYN,13,135,16,18,31
+ANN,ADASYN,14,136,15,24,25
+ANN,ADASYN,15,137,14,25,24
+ANN,BorderlineSMOTE,1,133,17,32,18
+ANN,BorderlineSMOTE,2,139,11,24,26
+ANN,BorderlineSMOTE,3,131,20,23,26
+ANN,BorderlineSMOTE,4,132,19,19,30
+ANN,BorderlineSMOTE,5,128,23,20,29
+ANN,BorderlineSMOTE,6,134,16,19,31
+ANN,BorderlineSMOTE,7,136,14,24,26
+ANN,BorderlineSMOTE,8,136,15,23,26
+ANN,BorderlineSMOTE,9,130,21,15,34
+ANN,BorderlineSMOTE,10,142,9,25,24
+ANN,BorderlineSMOTE,11,124,26,22,28
+ANN,BorderlineSMOTE,12,136,14,21,29
+ANN,BorderlineSMOTE,13,130,21,17,32
+ANN,BorderlineSMOTE,14,140,11,22,27
+ANN,BorderlineSMOTE,15,132,19,25,24
+ANN,RandomUnderSampler,1,107,43,18,32
+ANN,RandomUnderSampler,2,117,33,17,33
+ANN,RandomUnderSampler,3,116,35,15,34
+ANN,RandomUnderSampler,4,117,34,22,27
+ANN,RandomUnderSampler,5,110,41,15,34
+ANN,RandomUnderSampler,6,105,45,15,35
+ANN,RandomUnderSampler,7,111,39,17,33
+ANN,RandomUnderSampler,8,115,36,19,30
+ANN,RandomUnderSampler,9,113,38,14,35
+ANN,RandomUnderSampler,10,111,40,16,33
+ANN,RandomUnderSampler,11,85,65,5,45
+ANN,RandomUnderSampler,12,108,42,10,40
+ANN,RandomUnderSampler,13,110,41,15,34
+ANN,RandomUnderSampler,14,115,36,12,37
+ANN,RandomUnderSampler,15,119,32,17,32
+ANN,NearMiss,1,97,53,20,30
+ANN,NearMiss,2,115,35,19,31
+ANN,NearMiss,3,100,51,14,35
+ANN,NearMiss,4,114,37,19,30
+ANN,NearMiss,5,110,41,11,38
+ANN,NearMiss,6,116,34,18,32
+ANN,NearMiss,7,110,40,13,37
+ANN,NearMiss,8,115,36,16,33
+ANN,NearMiss,9,116,35,15,34
+ANN,NearMiss,10,105,46,12,37
+ANN,NearMiss,11,81,69,6,44
+ANN,NearMiss,12,90,60,9,41
+ANN,NearMiss,13,110,41,15,34
+ANN,NearMiss,14,110,41,18,31
+ANN,NearMiss,15,119,32,20,29
+ANN,TomekLinks,1,132,18,27,23
+ANN,TomekLinks,2,141,9,29,21
+ANN,TomekLinks,3,130,21,23,26
+ANN,TomekLinks,4,130,21,16,33
+ANN,TomekLinks,5,128,23,13,36
+ANN,TomekLinks,6,139,11,19,31
+ANN,TomekLinks,7,136,14,24,26
+ANN,TomekLinks,8,137,14,21,28
+ANN,TomekLinks,9,135,16,23,26
+ANN,TomekLinks,10,133,18,24,25
+ANN,TomekLinks,11,122,28,17,33
+ANN,TomekLinks,12,137,13,20,30
+ANN,TomekLinks,13,134,17,16,33
+ANN,TomekLinks,14,138,13,28,21
+ANN,TomekLinks,15,141,10,28,21
+ANN,ClusterCentroids,1,102,48,15,35
+ANN,ClusterCentroids,2,114,36,16,34
+ANN,ClusterCentroids,3,104,47,16,33
+ANN,ClusterCentroids,4,98,53,10,39
+ANN,ClusterCentroids,5,109,42,8,41
+ANN,ClusterCentroids,6,106,44,10,40
+ANN,ClusterCentroids,7,112,38,15,35
+ANN,ClusterCentroids,8,113,38,16,33
+ANN,ClusterCentroids,9,112,39,10,39
+ANN,ClusterCentroids,10,99,52,7,42
+ANN,ClusterCentroids,11,83,67,2,48
+ANN,ClusterCentroids,12,107,43,10,40
+ANN,ClusterCentroids,13,102,49,9,40
+ANN,ClusterCentroids,14,106,45,14,35
+ANN,ClusterCentroids,15,117,34,16,33
+ANN,SMOTETomek,1,137,13,32,18
+ANN,SMOTETomek,2,144,6,28,22
+ANN,SMOTETomek,3,131,20,25,24
+ANN,SMOTETomek,4,131,20,20,29
+ANN,SMOTETomek,5,126,25,14,35
+ANN,SMOTETomek,6,134,16,24,26
+ANN,SMOTETomek,7,134,16,21,29
+ANN,SMOTETomek,8,136,15,23,26
+ANN,SMOTETomek,9,134,17,21,28
+ANN,SMOTETomek,10,142,9,32,17
+ANN,SMOTETomek,11,120,30,18,32
+ANN,SMOTETomek,12,135,15,21,29
+ANN,SMOTETomek,13,130,21,16,33
+ANN,SMOTETomek,14,136,15,26,23
+ANN,SMOTETomek,15,132,19,21,28
+ANN,SMOTEENN,1,6,144,2,48
+ANN,SMOTEENN,2,14,136,2,48
+ANN,SMOTEENN,3,4,147,1,48
+ANN,SMOTEENN,4,7,144,0,49
+ANN,SMOTEENN,5,15,136,0,49
+ANN,SMOTEENN,6,28,122,4,46
+ANN,SMOTEENN,7,10,140,0,50
+ANN,SMOTEENN,8,13,138,1,48
+ANN,SMOTEENN,9,8,143,0,49
+ANN,SMOTEENN,10,13,138,2,47
+ANN,SMOTEENN,11,6,144,0,50
+ANN,SMOTEENN,12,26,124,0,50
+ANN,SMOTEENN,13,15,136,0,49
+ANN,SMOTEENN,14,8,143,0,49
+ANN,SMOTEENN,15,16,135,1,48
+XGBoost,No Sampling,1,138,12,31,19
+XGBoost,No Sampling,2,142,8,33,17
+XGBoost,No Sampling,3,134,17,15,34
+XGBoost,No Sampling,4,136,15,24,25
+XGBoost,No Sampling,5,133,18,11,38
+XGBoost,No Sampling,6,138,12,21,29
+XGBoost,No Sampling,7,135,15,28,22
+XGBoost,No Sampling,8,133,18,23,26
+XGBoost,No Sampling,9,136,15,28,21
+XGBoost,No Sampling,10,140,11,25,24
+XGBoost,No Sampling,11,130,20,19,31
+XGBoost,No Sampling,12,135,15,19,31
+XGBoost,No Sampling,13,137,14,14,35
+XGBoost,No Sampling,14,135,16,26,23
+XGBoost,No Sampling,15,140,11,22,27
+XGBoost,Cost Sensitive,1,133,17,18,32
+XGBoost,Cost Sensitive,2,139,11,19,31
+XGBoost,Cost Sensitive,3,126,25,14,35
+XGBoost,Cost Sensitive,4,133,18,19,30
+XGBoost,Cost Sensitive,5,126,25,6,43
+XGBoost,Cost Sensitive,6,131,19,15,35
+XGBoost,Cost Sensitive,7,129,21,18,32
+XGBoost,Cost Sensitive,8,130,21,20,29
+XGBoost,Cost Sensitive,9,132,19,14,35
+XGBoost,Cost Sensitive,10,136,15,12,37
+XGBoost,Cost Sensitive,11,126,24,18,32
+XGBoost,Cost Sensitive,12,133,17,12,38
+XGBoost,Cost Sensitive,13,133,18,10,39
+XGBoost,Cost Sensitive,14,132,19,23,26
+XGBoost,Cost Sensitive,15,135,16,16,33
+XGBoost,RandomOverSampler,1,133,17,19,31
+XGBoost,RandomOverSampler,2,140,10,25,25
+XGBoost,RandomOverSampler,3,127,24,14,35
+XGBoost,RandomOverSampler,4,136,15,16,33
+XGBoost,RandomOverSampler,5,122,29,9,40
+XGBoost,RandomOverSampler,6,133,17,14,36
+XGBoost,RandomOverSampler,7,133,17,21,29
+XGBoost,RandomOverSampler,8,129,22,16,33
+XGBoost,RandomOverSampler,9,131,20,20,29
+XGBoost,RandomOverSampler,10,135,16,16,33
+XGBoost,RandomOverSampler,11,128,22,14,36
+XGBoost,RandomOverSampler,12,133,17,14,36
+XGBoost,RandomOverSampler,13,136,15,11,38
+XGBoost,RandomOverSampler,14,134,17,18,31
+XGBoost,RandomOverSampler,15,136,15,19,30
+XGBoost,SMOTE,1,135,15,22,28
+XGBoost,SMOTE,2,140,10,29,21
+XGBoost,SMOTE,3,129,22,19,30
+XGBoost,SMOTE,4,135,16,19,30
+XGBoost,SMOTE,5,130,21,10,39
+XGBoost,SMOTE,6,134,16,14,36
+XGBoost,SMOTE,7,135,15,23,27
+XGBoost,SMOTE,8,129,22,24,25
+XGBoost,SMOTE,9,137,14,22,27
+XGBoost,SMOTE,10,140,11,21,28
+XGBoost,SMOTE,11,129,21,15,35
+XGBoost,SMOTE,12,137,13,15,35
+XGBoost,SMOTE,13,136,15,15,34
+XGBoost,SMOTE,14,133,18,24,25
+XGBoost,SMOTE,15,138,13,20,29
+XGBoost,ADASYN,1,135,15,25,25
+XGBoost,ADASYN,2,140,10,30,20
+XGBoost,ADASYN,3,132,19,15,34
+XGBoost,ADASYN,4,135,16,17,32
+XGBoost,ADASYN,5,127,24,7,42
+XGBoost,ADASYN,6,136,14,19,31
+XGBoost,ADASYN,7,134,16,26,24
+XGBoost,ADASYN,8,134,17,26,23
+XGBoost,ADASYN,9,134,17,19,30
+XGBoost,ADASYN,10,142,9,20,29
+XGBoost,ADASYN,11,129,21,16,34
+XGBoost,ADASYN,12,136,14,16,34
+XGBoost,ADASYN,13,136,15,13,36
+XGBoost,ADASYN,14,136,15,22,27
+XGBoost,ADASYN,15,136,15,26,23
+XGBoost,BorderlineSMOTE,1,135,15,26,24
+XGBoost,BorderlineSMOTE,2,141,9,30,20
+XGBoost,BorderlineSMOTE,3,132,19,16,33
+XGBoost,BorderlineSMOTE,4,136,15,19,30
+XGBoost,BorderlineSMOTE,5,127,24,12,37
+XGBoost,BorderlineSMOTE,6,137,13,17,33
+XGBoost,BorderlineSMOTE,7,134,16,26,24
+XGBoost,BorderlineSMOTE,8,134,17,24,25
+XGBoost,BorderlineSMOTE,9,136,15,18,31
+XGBoost,BorderlineSMOTE,10,139,12,19,30
+XGBoost,BorderlineSMOTE,11,127,23,19,31
+XGBoost,BorderlineSMOTE,12,135,15,18,32
+XGBoost,BorderlineSMOTE,13,137,14,13,36
+XGBoost,BorderlineSMOTE,14,133,18,25,24
+XGBoost,BorderlineSMOTE,15,137,14,23,26
+XGBoost,RandomUnderSampler,1,124,26,8,42
+XGBoost,RandomUnderSampler,2,131,19,19,31
+XGBoost,RandomUnderSampler,3,119,32,6,43
+XGBoost,RandomUnderSampler,4,115,36,11,38
+XGBoost,RandomUnderSampler,5,108,43,4,45
+XGBoost,RandomUnderSampler,6,123,27,7,43
+XGBoost,RandomUnderSampler,7,123,27,8,42
+XGBoost,RandomUnderSampler,8,116,35,10,39
+XGBoost,RandomUnderSampler,9,122,29,9,40
+XGBoost,RandomUnderSampler,10,129,22,10,39
+XGBoost,RandomUnderSampler,11,114,36,6,44
+XGBoost,RandomUnderSampler,12,125,25,7,43
+XGBoost,RandomUnderSampler,13,119,32,6,43
+XGBoost,RandomUnderSampler,14,126,25,12,37
+XGBoost,RandomUnderSampler,15,124,27,15,34
+XGBoost,NearMiss,1,123,27,11,39
+XGBoost,NearMiss,2,129,21,17,33
+XGBoost,NearMiss,3,107,44,14,35
+XGBoost,NearMiss,4,108,43,15,34
+XGBoost,NearMiss,5,109,42,4,45
+XGBoost,NearMiss,6,107,43,10,40
+XGBoost,NearMiss,7,123,27,11,39
+XGBoost,NearMiss,8,111,40,15,34
+XGBoost,NearMiss,9,115,36,14,35
+XGBoost,NearMiss,10,112,39,12,37
+XGBoost,NearMiss,11,115,35,9,41
+XGBoost,NearMiss,12,109,41,13,37
+XGBoost,NearMiss,13,113,38,7,42
+XGBoost,NearMiss,14,114,37,18,31
+XGBoost,NearMiss,15,124,27,17,32
+XGBoost,TomekLinks,1,131,19,21,29
+XGBoost,TomekLinks,2,141,9,25,25
+XGBoost,TomekLinks,3,131,20,16,33
+XGBoost,TomekLinks,4,135,16,20,29
+XGBoost,TomekLinks,5,128,23,7,42
+XGBoost,TomekLinks,6,133,17,17,33
+XGBoost,TomekLinks,7,133,17,24,26
+XGBoost,TomekLinks,8,132,19,20,29
+XGBoost,TomekLinks,9,133,18,19,30
+XGBoost,TomekLinks,10,135,16,20,29
+XGBoost,TomekLinks,11,129,21,16,34
+XGBoost,TomekLinks,12,132,18,20,30
+XGBoost,TomekLinks,13,132,19,13,36
+XGBoost,TomekLinks,14,135,16,23,26
+XGBoost,TomekLinks,15,136,15,19,30
+XGBoost,ClusterCentroids,1,40,110,3,47
+XGBoost,ClusterCentroids,2,59,91,4,46
+XGBoost,ClusterCentroids,3,53,98,2,47
+XGBoost,ClusterCentroids,4,48,103,5,44
+XGBoost,ClusterCentroids,5,35,116,3,46
+XGBoost,ClusterCentroids,6,33,117,4,46
+XGBoost,ClusterCentroids,7,37,113,2,48
+XGBoost,ClusterCentroids,8,61,90,6,43
+XGBoost,ClusterCentroids,9,42,109,2,47
+XGBoost,ClusterCentroids,10,41,110,0,49
+XGBoost,ClusterCentroids,11,35,115,0,50
+XGBoost,ClusterCentroids,12,47,103,1,49
+XGBoost,ClusterCentroids,13,40,111,4,45
+XGBoost,ClusterCentroids,14,64,87,5,44
+XGBoost,ClusterCentroids,15,60,91,3,46
+XGBoost,SMOTETomek,1,135,15,26,24
+XGBoost,SMOTETomek,2,143,7,30,20
+XGBoost,SMOTETomek,3,129,22,19,30
+XGBoost,SMOTETomek,4,135,16,19,30
+XGBoost,SMOTETomek,5,131,20,10,39
+XGBoost,SMOTETomek,6,134,16,14,36
+XGBoost,SMOTETomek,7,133,17,27,23
+XGBoost,SMOTETomek,8,129,22,24,25
+XGBoost,SMOTETomek,9,135,16,20,29
+XGBoost,SMOTETomek,10,140,11,21,28
+XGBoost,SMOTETomek,11,130,20,17,33
+XGBoost,SMOTETomek,12,137,13,18,32
+XGBoost,SMOTETomek,13,136,15,13,36
+XGBoost,SMOTETomek,14,136,15,25,24
+XGBoost,SMOTETomek,15,136,15,22,27
+XGBoost,SMOTEENN,1,16,134,1,49
+XGBoost,SMOTEENN,2,18,132,3,47
+XGBoost,SMOTEENN,3,12,139,0,49
+XGBoost,SMOTEENN,4,20,131,1,48
+XGBoost,SMOTEENN,5,25,126,2,47
+XGBoost,SMOTEENN,6,28,122,4,46
+XGBoost,SMOTEENN,7,30,120,1,49
+XGBoost,SMOTEENN,8,26,125,2,47
+XGBoost,SMOTEENN,9,11,140,1,48
+XGBoost,SMOTEENN,10,18,133,3,46
+XGBoost,SMOTEENN,11,17,133,2,48
+XGBoost,SMOTEENN,12,31,119,0,50
+XGBoost,SMOTEENN,13,28,123,1,48
+XGBoost,SMOTEENN,14,12,139,0,49
+XGBoost,SMOTEENN,15,22,129,1,48
+CatBoost,No Sampling,1,137,13,22,28
+CatBoost,No Sampling,2,144,6,29,21
+CatBoost,No Sampling,3,137,14,22,27
+CatBoost,No Sampling,4,141,10,23,26
+CatBoost,No Sampling,5,135,16,17,32
+CatBoost,No Sampling,6,134,16,18,32
+CatBoost,No Sampling,7,134,16,20,30
+CatBoost,No Sampling,8,136,15,19,30
+CatBoost,No Sampling,9,135,16,30,19
+CatBoost,No Sampling,10,141,10,24,25
+CatBoost,No Sampling,11,129,21,18,32
+CatBoost,No Sampling,12,138,12,20,30
+CatBoost,No Sampling,13,137,14,19,30
+CatBoost,No Sampling,14,139,12,29,20
+CatBoost,No Sampling,15,138,13,32,17
+CatBoost,Cost Sensitive,1,132,18,15,35
+CatBoost,Cost Sensitive,2,139,11,19,31
+CatBoost,Cost Sensitive,3,129,22,16,33
+CatBoost,Cost Sensitive,4,132,19,21,28
+CatBoost,Cost Sensitive,5,128,23,9,40
+CatBoost,Cost Sensitive,6,131,19,14,36
+CatBoost,Cost Sensitive,7,128,22,21,29
+CatBoost,Cost Sensitive,8,126,25,11,38
+CatBoost,Cost Sensitive,9,130,21,17,32
+CatBoost,Cost Sensitive,10,134,17,15,34
+CatBoost,Cost Sensitive,11,123,27,10,40
+CatBoost,Cost Sensitive,12,132,18,13,37
+CatBoost,Cost Sensitive,13,131,20,9,40
+CatBoost,Cost Sensitive,14,132,19,21,28
+CatBoost,Cost Sensitive,15,135,16,17,32
+CatBoost,RandomOverSampler,1,130,20,17,33
+CatBoost,RandomOverSampler,2,140,10,23,27
+CatBoost,RandomOverSampler,3,130,21,13,36
+CatBoost,RandomOverSampler,4,133,18,19,30
+CatBoost,RandomOverSampler,5,125,26,10,39
+CatBoost,RandomOverSampler,6,132,18,15,35
+CatBoost,RandomOverSampler,7,129,21,20,30
+CatBoost,RandomOverSampler,8,129,22,18,31
+CatBoost,RandomOverSampler,9,129,22,20,29
+CatBoost,RandomOverSampler,10,136,15,16,33
+CatBoost,RandomOverSampler,11,124,26,12,38
+CatBoost,RandomOverSampler,12,133,17,15,35
+CatBoost,RandomOverSampler,13,132,19,14,35
+CatBoost,RandomOverSampler,14,134,17,22,27
+CatBoost,RandomOverSampler,15,135,16,18,31
+CatBoost,SMOTE,1,132,18,21,29
+CatBoost,SMOTE,2,142,8,24,26
+CatBoost,SMOTE,3,133,18,17,32
+CatBoost,SMOTE,4,136,15,19,30
+CatBoost,SMOTE,5,125,26,11,38
+CatBoost,SMOTE,6,134,16,15,35
+CatBoost,SMOTE,7,130,20,19,31
+CatBoost,SMOTE,8,133,18,15,34
+CatBoost,SMOTE,9,133,18,20,29
+CatBoost,SMOTE,10,136,15,15,34
+CatBoost,SMOTE,11,123,27,16,34
+CatBoost,SMOTE,12,135,15,14,36
+CatBoost,SMOTE,13,131,20,10,39
+CatBoost,SMOTE,14,133,18,23,26
+CatBoost,SMOTE,15,135,16,19,30
+CatBoost,ADASYN,1,134,16,19,31
+CatBoost,ADASYN,2,141,9,24,26
+CatBoost,ADASYN,3,128,23,15,34
+CatBoost,ADASYN,4,134,17,14,35
+CatBoost,ADASYN,5,128,23,7,42
+CatBoost,ADASYN,6,135,15,12,38
+CatBoost,ADASYN,7,128,22,25,25
+CatBoost,ADASYN,8,132,19,15,34
+CatBoost,ADASYN,9,133,18,19,30
+CatBoost,ADASYN,10,135,16,17,32
+CatBoost,ADASYN,11,127,23,16,34
+CatBoost,ADASYN,12,135,15,14,36
+CatBoost,ADASYN,13,133,18,9,40
+CatBoost,ADASYN,14,134,17,24,25
+CatBoost,ADASYN,15,136,15,18,31
+CatBoost,BorderlineSMOTE,1,130,20,22,28
+CatBoost,BorderlineSMOTE,2,141,9,24,26
+CatBoost,BorderlineSMOTE,3,131,20,15,34
+CatBoost,BorderlineSMOTE,4,134,17,17,32
+CatBoost,BorderlineSMOTE,5,128,23,10,39
+CatBoost,BorderlineSMOTE,6,135,15,12,38
+CatBoost,BorderlineSMOTE,7,130,20,22,28
+CatBoost,BorderlineSMOTE,8,131,20,13,36
+CatBoost,BorderlineSMOTE,9,132,19,21,28
+CatBoost,BorderlineSMOTE,10,135,16,20,29
+CatBoost,BorderlineSMOTE,11,123,27,14,36
+CatBoost,BorderlineSMOTE,12,135,15,16,34
+CatBoost,BorderlineSMOTE,13,132,19,12,37
+CatBoost,BorderlineSMOTE,14,133,18,25,24
+CatBoost,BorderlineSMOTE,15,137,14,20,29
+CatBoost,RandomUnderSampler,1,126,24,10,40
+CatBoost,RandomUnderSampler,2,133,17,13,37
+CatBoost,RandomUnderSampler,3,124,27,7,42
+CatBoost,RandomUnderSampler,4,127,24,9,40
+CatBoost,RandomUnderSampler,5,118,33,2,47
+CatBoost,RandomUnderSampler,6,127,23,5,45
+CatBoost,RandomUnderSampler,7,125,25,7,43
+CatBoost,RandomUnderSampler,8,120,31,8,41
+CatBoost,RandomUnderSampler,9,126,25,9,40
+CatBoost,RandomUnderSampler,10,130,21,6,43
+CatBoost,RandomUnderSampler,11,116,34,5,45
+CatBoost,RandomUnderSampler,12,129,21,4,46
+CatBoost,RandomUnderSampler,13,120,31,5,44
+CatBoost,RandomUnderSampler,14,131,20,10,39
+CatBoost,RandomUnderSampler,15,130,21,11,38
+CatBoost,NearMiss,1,125,25,8,42
+CatBoost,NearMiss,2,132,18,16,34
+CatBoost,NearMiss,3,114,37,9,40
+CatBoost,NearMiss,4,120,31,11,38
+CatBoost,NearMiss,5,116,35,7,42
+CatBoost,NearMiss,6,117,33,9,41
+CatBoost,NearMiss,7,121,29,14,36
+CatBoost,NearMiss,8,116,35,15,34
+CatBoost,NearMiss,9,123,28,12,37
+CatBoost,NearMiss,10,127,24,6,43
+CatBoost,NearMiss,11,118,32,6,44
+CatBoost,NearMiss,12,113,37,8,42
+CatBoost,NearMiss,13,123,28,5,44
+CatBoost,NearMiss,14,120,31,16,33
+CatBoost,NearMiss,15,127,24,15,34
+CatBoost,TomekLinks,1,133,17,18,32
+CatBoost,TomekLinks,2,141,9,21,29
+CatBoost,TomekLinks,3,133,18,17,32
+CatBoost,TomekLinks,4,137,14,22,27
+CatBoost,TomekLinks,5,130,21,13,36
+CatBoost,TomekLinks,6,132,18,13,37
+CatBoost,TomekLinks,7,131,19,19,31
+CatBoost,TomekLinks,8,132,19,15,34
+CatBoost,TomekLinks,9,132,19,21,28
+CatBoost,TomekLinks,10,134,17,18,31
+CatBoost,TomekLinks,11,123,27,13,37
+CatBoost,TomekLinks,12,132,18,16,34
+CatBoost,TomekLinks,13,130,21,14,35
+CatBoost,TomekLinks,14,136,15,25,24
+CatBoost,TomekLinks,15,136,15,19,30
+CatBoost,ClusterCentroids,1,61,89,4,46
+CatBoost,ClusterCentroids,2,81,69,5,45
+CatBoost,ClusterCentroids,3,75,76,2,47
+CatBoost,ClusterCentroids,4,69,82,3,46
+CatBoost,ClusterCentroids,5,56,95,3,46
+CatBoost,ClusterCentroids,6,42,108,3,47
+CatBoost,ClusterCentroids,7,58,92,4,46
+CatBoost,ClusterCentroids,8,87,64,6,43
+CatBoost,ClusterCentroids,9,67,84,2,47
+CatBoost,ClusterCentroids,10,57,94,0,49
+CatBoost,ClusterCentroids,11,66,84,3,47
+CatBoost,ClusterCentroids,12,68,82,2,48
+CatBoost,ClusterCentroids,13,72,79,3,46
+CatBoost,ClusterCentroids,14,97,54,6,43
+CatBoost,ClusterCentroids,15,82,69,6,43
+CatBoost,SMOTETomek,1,130,20,19,31
+CatBoost,SMOTETomek,2,139,11,27,23
+CatBoost,SMOTETomek,3,133,18,17,32
+CatBoost,SMOTETomek,4,136,15,19,30
+CatBoost,SMOTETomek,5,124,27,15,34
+CatBoost,SMOTETomek,6,134,16,15,35
+CatBoost,SMOTETomek,7,131,19,19,31
+CatBoost,SMOTETomek,8,133,18,15,34
+CatBoost,SMOTETomek,9,132,19,17,32
+CatBoost,SMOTETomek,10,136,15,15,34
+CatBoost,SMOTETomek,11,124,26,15,35
+CatBoost,SMOTETomek,12,134,16,19,31
+CatBoost,SMOTETomek,13,132,19,9,40
+CatBoost,SMOTETomek,14,133,18,23,26
+CatBoost,SMOTETomek,15,138,13,17,32
+CatBoost,SMOTEENN,1,11,139,0,50
+CatBoost,SMOTEENN,2,16,134,2,48
+CatBoost,SMOTEENN,3,15,136,1,48
+CatBoost,SMOTEENN,4,16,135,1,48
+CatBoost,SMOTEENN,5,23,128,2,47
+CatBoost,SMOTEENN,6,30,120,4,46
+CatBoost,SMOTEENN,7,19,131,0,50
+CatBoost,SMOTEENN,8,8,143,1,48
+CatBoost,SMOTEENN,9,3,148,0,49
+CatBoost,SMOTEENN,10,18,133,3,46
+CatBoost,SMOTEENN,11,13,137,2,48
+CatBoost,SMOTEENN,12,32,118,1,49
+CatBoost,SMOTEENN,13,18,133,0,49
+CatBoost,SMOTEENN,14,4,147,0,49
+CatBoost,SMOTEENN,15,17,134,1,48
+LightGBM,No Sampling,1,135,15,24,26
+LightGBM,No Sampling,2,142,8,27,23
+LightGBM,No Sampling,3,129,22,19,30
+LightGBM,No Sampling,4,137,14,22,27
+LightGBM,No Sampling,5,128,23,13,36
+LightGBM,No Sampling,6,133,17,24,26
+LightGBM,No Sampling,7,134,16,27,23
+LightGBM,No Sampling,8,136,15,21,28
+LightGBM,No Sampling,9,133,18,23,26
+LightGBM,No Sampling,10,134,17,16,33
+LightGBM,No Sampling,11,130,20,19,31
+LightGBM,No Sampling,12,136,14,24,26
+LightGBM,No Sampling,13,135,16,18,31
+LightGBM,No Sampling,14,136,15,27,22
+LightGBM,No Sampling,15,138,13,24,25
+LightGBM,Cost Sensitive,1,134,16,19,31
+LightGBM,Cost Sensitive,2,138,12,25,25
+LightGBM,Cost Sensitive,3,131,20,17,32
+LightGBM,Cost Sensitive,4,138,13,21,28
+LightGBM,Cost Sensitive,5,126,25,10,39
+LightGBM,Cost Sensitive,6,130,20,16,34
+LightGBM,Cost Sensitive,7,132,18,19,31
+LightGBM,Cost Sensitive,8,131,20,18,31
+LightGBM,Cost Sensitive,9,131,20,22,27
+LightGBM,Cost Sensitive,10,133,18,17,32
+LightGBM,Cost Sensitive,11,126,24,17,33
+LightGBM,Cost Sensitive,12,132,18,21,29
+LightGBM,Cost Sensitive,13,131,20,12,37
+LightGBM,Cost Sensitive,14,136,15,20,29
+LightGBM,Cost Sensitive,15,136,15,21,28
+LightGBM,RandomOverSampler,1,135,15,17,33
+LightGBM,RandomOverSampler,2,138,12,24,26
+LightGBM,RandomOverSampler,3,130,21,17,32
+LightGBM,RandomOverSampler,4,135,16,19,30
+LightGBM,RandomOverSampler,5,125,26,13,36
+LightGBM,RandomOverSampler,6,131,19,20,30
+LightGBM,RandomOverSampler,7,129,21,20,30
+LightGBM,RandomOverSampler,8,129,22,17,32
+LightGBM,RandomOverSampler,9,132,19,19,30
+LightGBM,RandomOverSampler,10,130,21,16,33
+LightGBM,RandomOverSampler,11,127,23,13,37
+LightGBM,RandomOverSampler,12,134,16,16,34
+LightGBM,RandomOverSampler,13,130,21,14,35
+LightGBM,RandomOverSampler,14,135,16,26,23
+LightGBM,RandomOverSampler,15,137,14,24,25
+LightGBM,SMOTE,1,134,16,21,29
+LightGBM,SMOTE,2,138,12,26,24
+LightGBM,SMOTE,3,132,19,15,34
+LightGBM,SMOTE,4,135,16,21,28
+LightGBM,SMOTE,5,127,24,10,39
+LightGBM,SMOTE,6,132,18,15,35
+LightGBM,SMOTE,7,132,18,21,29
+LightGBM,SMOTE,8,129,22,21,28
+LightGBM,SMOTE,9,133,18,23,26
+LightGBM,SMOTE,10,134,17,20,29
+LightGBM,SMOTE,11,125,25,13,37
+LightGBM,SMOTE,12,133,17,19,31
+LightGBM,SMOTE,13,133,18,10,39
+LightGBM,SMOTE,14,133,18,21,28
+LightGBM,SMOTE,15,140,11,24,25
+LightGBM,ADASYN,1,133,17,19,31
+LightGBM,ADASYN,2,138,12,25,25
+LightGBM,ADASYN,3,132,19,16,33
+LightGBM,ADASYN,4,135,16,21,28
+LightGBM,ADASYN,5,126,25,9,40
+LightGBM,ADASYN,6,133,17,15,35
+LightGBM,ADASYN,7,135,15,18,32
+LightGBM,ADASYN,8,131,20,23,26
+LightGBM,ADASYN,9,132,19,22,27
+LightGBM,ADASYN,10,132,19,16,33
+LightGBM,ADASYN,11,127,23,16,34
+LightGBM,ADASYN,12,134,16,18,32
+LightGBM,ADASYN,13,134,17,10,39
+LightGBM,ADASYN,14,134,17,26,23
+LightGBM,ADASYN,15,140,11,24,25
+LightGBM,BorderlineSMOTE,1,135,15,26,24
+LightGBM,BorderlineSMOTE,2,139,11,26,24
+LightGBM,BorderlineSMOTE,3,130,21,16,33
+LightGBM,BorderlineSMOTE,4,135,16,19,30
+LightGBM,BorderlineSMOTE,5,128,23,7,42
+LightGBM,BorderlineSMOTE,6,132,18,14,36
+LightGBM,BorderlineSMOTE,7,133,17,18,32
+LightGBM,BorderlineSMOTE,8,131,20,20,29
+LightGBM,BorderlineSMOTE,9,132,19,21,28
+LightGBM,BorderlineSMOTE,10,136,15,18,31
+LightGBM,BorderlineSMOTE,11,125,25,14,36
+LightGBM,BorderlineSMOTE,12,133,17,16,34
+LightGBM,BorderlineSMOTE,13,133,18,10,39
+LightGBM,BorderlineSMOTE,14,135,16,25,24
+LightGBM,BorderlineSMOTE,15,136,15,23,26
+LightGBM,RandomUnderSampler,1,125,25,7,43
+LightGBM,RandomUnderSampler,2,124,26,20,30
+LightGBM,RandomUnderSampler,3,117,34,6,43
+LightGBM,RandomUnderSampler,4,121,30,11,38
+LightGBM,RandomUnderSampler,5,109,42,3,46
+LightGBM,RandomUnderSampler,6,120,30,12,38
+LightGBM,RandomUnderSampler,7,122,28,10,40
+LightGBM,RandomUnderSampler,8,123,28,11,38
+LightGBM,RandomUnderSampler,9,120,31,7,42
+LightGBM,RandomUnderSampler,10,121,30,9,40
+LightGBM,RandomUnderSampler,11,111,39,7,43
+LightGBM,RandomUnderSampler,12,124,26,4,46
+LightGBM,RandomUnderSampler,13,121,30,8,41
+LightGBM,RandomUnderSampler,14,129,22,10,39
+LightGBM,RandomUnderSampler,15,122,29,12,37
+LightGBM,NearMiss,1,124,26,16,34
+LightGBM,NearMiss,2,127,23,17,33
+LightGBM,NearMiss,3,110,41,12,37
+LightGBM,NearMiss,4,114,37,12,37
+LightGBM,NearMiss,5,103,48,6,43
+LightGBM,NearMiss,6,102,48,16,34
+LightGBM,NearMiss,7,116,34,16,34
+LightGBM,NearMiss,8,111,40,16,33
+LightGBM,NearMiss,9,119,32,15,34
+LightGBM,NearMiss,10,122,29,9,40
+LightGBM,NearMiss,11,106,44,10,40
+LightGBM,NearMiss,12,109,41,13,37
+LightGBM,NearMiss,13,115,36,9,40
+LightGBM,NearMiss,14,115,36,14,35
+LightGBM,NearMiss,15,126,25,16,33
+LightGBM,TomekLinks,1,134,16,17,33
+LightGBM,TomekLinks,2,139,11,27,23
+LightGBM,TomekLinks,3,130,21,12,37
+LightGBM,TomekLinks,4,135,16,24,25
+LightGBM,TomekLinks,5,126,25,9,40
+LightGBM,TomekLinks,6,132,18,18,32
+LightGBM,TomekLinks,7,133,17,24,26
+LightGBM,TomekLinks,8,133,18,16,33
+LightGBM,TomekLinks,9,133,18,18,31
+LightGBM,TomekLinks,10,132,19,21,28
+LightGBM,TomekLinks,11,126,24,12,38
+LightGBM,TomekLinks,12,131,19,18,32
+LightGBM,TomekLinks,13,129,22,13,36
+LightGBM,TomekLinks,14,135,16,23,26
+LightGBM,TomekLinks,15,138,13,20,29
+LightGBM,ClusterCentroids,1,51,99,3,47
+LightGBM,ClusterCentroids,2,73,77,6,44
+LightGBM,ClusterCentroids,3,54,97,3,46
+LightGBM,ClusterCentroids,4,54,97,3,46
+LightGBM,ClusterCentroids,5,58,93,3,46
+LightGBM,ClusterCentroids,6,42,108,3,47
+LightGBM,ClusterCentroids,7,42,108,5,45
+LightGBM,ClusterCentroids,8,77,74,5,44
+LightGBM,ClusterCentroids,9,57,94,3,46
+LightGBM,ClusterCentroids,10,37,114,0,49
+LightGBM,ClusterCentroids,11,47,103,1,49
+LightGBM,ClusterCentroids,12,54,96,2,48
+LightGBM,ClusterCentroids,13,51,100,3,46
+LightGBM,ClusterCentroids,14,78,73,4,45
+LightGBM,ClusterCentroids,15,86,65,7,42
+LightGBM,SMOTETomek,1,134,16,24,26
+LightGBM,SMOTETomek,2,138,12,26,24
+LightGBM,SMOTETomek,3,132,19,15,34
+LightGBM,SMOTETomek,4,135,16,21,28
+LightGBM,SMOTETomek,5,125,26,10,39
+LightGBM,SMOTETomek,6,132,18,15,35
+LightGBM,SMOTETomek,7,132,18,20,30
+LightGBM,SMOTETomek,8,129,22,21,28
+LightGBM,SMOTETomek,9,134,17,22,27
+LightGBM,SMOTETomek,10,134,17,20,29
+LightGBM,SMOTETomek,11,124,26,14,36
+LightGBM,SMOTETomek,12,135,15,20,30
+LightGBM,SMOTETomek,13,132,19,11,38
+LightGBM,SMOTETomek,14,134,17,24,25
+LightGBM,SMOTETomek,15,138,13,22,27
+LightGBM,SMOTEENN,1,36,114,0,50
+LightGBM,SMOTEENN,2,32,118,3,47
+LightGBM,SMOTEENN,3,19,132,1,48
+LightGBM,SMOTEENN,4,21,130,1,48
+LightGBM,SMOTEENN,5,26,125,2,47
+LightGBM,SMOTEENN,6,29,121,4,46
+LightGBM,SMOTEENN,7,38,112,1,49
+LightGBM,SMOTEENN,8,33,118,1,48
+LightGBM,SMOTEENN,9,23,128,1,48
+LightGBM,SMOTEENN,10,20,131,2,47
+LightGBM,SMOTEENN,11,17,133,1,49
+LightGBM,SMOTEENN,12,41,109,0,50
+LightGBM,SMOTEENN,13,27,124,1,48
+LightGBM,SMOTEENN,14,14,137,2,47
+LightGBM,SMOTEENN,15,25,126,1,48
+RandomForest,No Sampling,1,148,2,46,4
+RandomForest,No Sampling,2,147,3,47,3
+RandomForest,No Sampling,3,148,3,45,4
+RandomForest,No Sampling,4,147,4,45,4
+RandomForest,No Sampling,5,146,5,42,7
+RandomForest,No Sampling,6,146,4,45,5
+RandomForest,No Sampling,7,147,3,47,3
+RandomForest,No Sampling,8,148,3,44,5
+RandomForest,No Sampling,9,147,4,47,2
+RandomForest,No Sampling,10,149,2,46,3
+RandomForest,No Sampling,11,145,5,43,7
+RandomForest,No Sampling,12,145,5,46,4
+RandomForest,No Sampling,13,147,4,43,6
+RandomForest,No Sampling,14,149,2,48,1
+RandomForest,No Sampling,15,147,4,45,4
+RandomForest,Cost Sensitive,1,147,3,49,1
+RandomForest,Cost Sensitive,2,147,3,46,4
+RandomForest,Cost Sensitive,3,148,3,47,2
+RandomForest,Cost Sensitive,4,149,2,45,4
+RandomForest,Cost Sensitive,5,146,5,42,7
+RandomForest,Cost Sensitive,6,147,3,47,3
+RandomForest,Cost Sensitive,7,144,6,49,1
+RandomForest,Cost Sensitive,8,150,1,46,3
+RandomForest,Cost Sensitive,9,146,5,46,3
+RandomForest,Cost Sensitive,10,149,2,45,4
+RandomForest,Cost Sensitive,11,143,7,46,4
+RandomForest,Cost Sensitive,12,145,5,47,3
+RandomForest,Cost Sensitive,13,147,4,44,5
+RandomForest,Cost Sensitive,14,150,1,49,0
+RandomForest,Cost Sensitive,15,149,2,45,4
+RandomForest,RandomOverSampler,1,138,12,32,18
+RandomForest,RandomOverSampler,2,145,5,38,12
+RandomForest,RandomOverSampler,3,141,10,32,17
+RandomForest,RandomOverSampler,4,140,11,33,16
+RandomForest,RandomOverSampler,5,137,14,27,22
+RandomForest,RandomOverSampler,6,141,9,31,19
+RandomForest,RandomOverSampler,7,138,12,34,16
+RandomForest,RandomOverSampler,8,142,9,28,21
+RandomForest,RandomOverSampler,9,140,11,32,17
+RandomForest,RandomOverSampler,10,145,6,32,17
+RandomForest,RandomOverSampler,11,134,16,25,25
+RandomForest,RandomOverSampler,12,141,9,36,14
+RandomForest,RandomOverSampler,13,141,10,27,22
+RandomForest,RandomOverSampler,14,141,10,35,14
+RandomForest,RandomOverSampler,15,145,6,35,14
+RandomForest,SMOTE,1,140,10,42,8
+RandomForest,SMOTE,2,146,4,41,9
+RandomForest,SMOTE,3,142,9,38,11
+RandomForest,SMOTE,4,144,7,37,12
+RandomForest,SMOTE,5,137,14,31,18
+RandomForest,SMOTE,6,140,10,30,20
+RandomForest,SMOTE,7,140,10,39,11
+RandomForest,SMOTE,8,140,11,37,12
+RandomForest,SMOTE,9,141,10,35,14
+RandomForest,SMOTE,10,145,6,39,10
+RandomForest,SMOTE,11,137,13,33,17
+RandomForest,SMOTE,12,140,10,34,16
+RandomForest,SMOTE,13,147,4,28,21
+RandomForest,SMOTE,14,141,10,35,14
+RandomForest,SMOTE,15,145,6,39,10
+RandomForest,ADASYN,1,142,8,37,13
+RandomForest,ADASYN,2,145,5,42,8
+RandomForest,ADASYN,3,142,9,37,12
+RandomForest,ADASYN,4,143,8,40,9
+RandomForest,ADASYN,5,137,14,30,19
+RandomForest,ADASYN,6,142,8,35,15
+RandomForest,ADASYN,7,143,7,40,10
+RandomForest,ADASYN,8,138,13,36,13
+RandomForest,ADASYN,9,140,11,33,16
+RandomForest,ADASYN,10,145,6,38,11
+RandomForest,ADASYN,11,135,15,33,17
+RandomForest,ADASYN,12,141,9,38,12
+RandomForest,ADASYN,13,147,4,28,21
+RandomForest,ADASYN,14,142,9,38,11
+RandomForest,ADASYN,15,144,7,42,7
+RandomForest,BorderlineSMOTE,1,141,9,38,12
+RandomForest,BorderlineSMOTE,2,146,4,38,12
+RandomForest,BorderlineSMOTE,3,142,9,38,11
+RandomForest,BorderlineSMOTE,4,143,8,36,13
+RandomForest,BorderlineSMOTE,5,140,11,31,18
+RandomForest,BorderlineSMOTE,6,142,8,32,18
+RandomForest,BorderlineSMOTE,7,141,9,40,10
+RandomForest,BorderlineSMOTE,8,140,11,36,13
+RandomForest,BorderlineSMOTE,9,139,12,34,15
+RandomForest,BorderlineSMOTE,10,145,6,35,14
+RandomForest,BorderlineSMOTE,11,134,16,34,16
+RandomForest,BorderlineSMOTE,12,143,7,38,12
+RandomForest,BorderlineSMOTE,13,144,7,35,14
+RandomForest,BorderlineSMOTE,14,141,10,41,8
+RandomForest,BorderlineSMOTE,15,144,7,43,6
+RandomForest,RandomUnderSampler,1,118,32,13,37
+RandomForest,RandomUnderSampler,2,124,26,10,40
+RandomForest,RandomUnderSampler,3,117,34,10,39
+RandomForest,RandomUnderSampler,4,122,29,14,35
+RandomForest,RandomUnderSampler,5,110,41,3,46
+RandomForest,RandomUnderSampler,6,112,38,12,38
+RandomForest,RandomUnderSampler,7,119,31,11,39
+RandomForest,RandomUnderSampler,8,116,35,11,38
+RandomForest,RandomUnderSampler,9,117,34,8,41
+RandomForest,RandomUnderSampler,10,116,35,11,38
+RandomForest,RandomUnderSampler,11,97,53,8,42
+RandomForest,RandomUnderSampler,12,122,28,7,43
+RandomForest,RandomUnderSampler,13,112,39,6,43
+RandomForest,RandomUnderSampler,14,121,30,10,39
+RandomForest,RandomUnderSampler,15,109,42,18,31
+RandomForest,NearMiss,1,120,30,16,34
+RandomForest,NearMiss,2,122,28,19,31
+RandomForest,NearMiss,3,106,45,12,37
+RandomForest,NearMiss,4,105,46,13,36
+RandomForest,NearMiss,5,109,42,4,45
+RandomForest,NearMiss,6,108,42,10,40
+RandomForest,NearMiss,7,119,31,14,36
+RandomForest,NearMiss,8,101,50,10,39
+RandomForest,NearMiss,9,115,36,12,37
+RandomForest,NearMiss,10,119,32,11,38
+RandomForest,NearMiss,11,115,35,8,42
+RandomForest,NearMiss,12,123,27,9,41
+RandomForest,NearMiss,13,118,33,6,43
+RandomForest,NearMiss,14,110,41,14,35
+RandomForest,NearMiss,15,118,33,14,35
+RandomForest,TomekLinks,1,145,5,41,9
+RandomForest,TomekLinks,2,147,3,44,6
+RandomForest,TomekLinks,3,141,10,39,10
+RandomForest,TomekLinks,4,149,2,39,10
+RandomForest,TomekLinks,5,143,8,36,13
+RandomForest,TomekLinks,6,145,5,40,10
+RandomForest,TomekLinks,7,143,7,43,7
+RandomForest,TomekLinks,8,146,5,42,7
+RandomForest,TomekLinks,9,145,6,40,9
+RandomForest,TomekLinks,10,148,3,42,7
+RandomForest,TomekLinks,11,141,9,39,11
+RandomForest,TomekLinks,12,142,8,38,12
+RandomForest,TomekLinks,13,146,5,38,11
+RandomForest,TomekLinks,14,148,3,41,8
+RandomForest,TomekLinks,15,147,4,44,5
+RandomForest,ClusterCentroids,1,9,141,0,50
+RandomForest,ClusterCentroids,2,11,139,3,47
+RandomForest,ClusterCentroids,3,16,135,1,48
+RandomForest,ClusterCentroids,4,16,135,0,49
+RandomForest,ClusterCentroids,5,10,141,1,48
+RandomForest,ClusterCentroids,6,13,137,4,46
+RandomForest,ClusterCentroids,7,8,142,0,50
+RandomForest,ClusterCentroids,8,15,136,0,49
+RandomForest,ClusterCentroids,9,2,149,0,49
+RandomForest,ClusterCentroids,10,7,144,0,49
+RandomForest,ClusterCentroids,11,14,136,1,49
+RandomForest,ClusterCentroids,12,10,140,0,50
+RandomForest,ClusterCentroids,13,10,141,0,49
+RandomForest,ClusterCentroids,14,19,132,3,46
+RandomForest,ClusterCentroids,15,13,138,3,46
+RandomForest,SMOTETomek,1,141,9,40,10
+RandomForest,SMOTETomek,2,145,5,41,9
+RandomForest,SMOTETomek,3,142,9,38,11
+RandomForest,SMOTETomek,4,144,7,37,12
+RandomForest,SMOTETomek,5,140,11,32,17
+RandomForest,SMOTETomek,6,140,10,30,20
+RandomForest,SMOTETomek,7,141,9,42,8
+RandomForest,SMOTETomek,8,140,11,37,12
+RandomForest,SMOTETomek,9,142,9,38,11
+RandomForest,SMOTETomek,10,145,6,39,10
+RandomForest,SMOTETomek,11,137,13,35,15
+RandomForest,SMOTETomek,12,142,8,35,15
+RandomForest,SMOTETomek,13,145,6,31,18
+RandomForest,SMOTETomek,14,141,10,37,12
+RandomForest,SMOTETomek,15,145,6,41,8
+RandomForest,SMOTEENN,1,2,148,0,50
+RandomForest,SMOTEENN,2,3,147,2,48
+RandomForest,SMOTEENN,3,6,145,0,49
+RandomForest,SMOTEENN,4,13,138,1,48
+RandomForest,SMOTEENN,5,22,129,3,46
+RandomForest,SMOTEENN,6,27,123,7,43
+RandomForest,SMOTEENN,7,10,140,0,50
+RandomForest,SMOTEENN,8,6,145,0,49
+RandomForest,SMOTEENN,9,1,150,0,49
+RandomForest,SMOTEENN,10,18,133,3,46
+RandomForest,SMOTEENN,11,8,142,1,49
+RandomForest,SMOTEENN,12,32,118,1,49
+RandomForest,SMOTEENN,13,15,136,0,49
+RandomForest,SMOTEENN,14,2,149,0,49
+RandomForest,SMOTEENN,15,17,134,1,48
+AdaBoost,No Sampling,1,149,1,47,3
+AdaBoost,No Sampling,2,148,2,44,6
+AdaBoost,No Sampling,3,149,2,43,6
+AdaBoost,No Sampling,4,151,0,47,2
+AdaBoost,No Sampling,5,145,6,39,10
+AdaBoost,No Sampling,6,147,3,41,9
+AdaBoost,No Sampling,7,148,2,47,3
+AdaBoost,No Sampling,8,150,1,43,6
+AdaBoost,No Sampling,9,149,2,45,4
+AdaBoost,No Sampling,10,147,4,43,6
+AdaBoost,No Sampling,11,146,4,43,7
+AdaBoost,No Sampling,12,147,3,42,8
+AdaBoost,No Sampling,13,149,2,44,5
+AdaBoost,No Sampling,14,149,2,42,7
+AdaBoost,No Sampling,15,150,1,42,7
+AdaBoost,Cost Sensitive,1,126,24,5,45
+AdaBoost,Cost Sensitive,2,134,16,8,42
+AdaBoost,Cost Sensitive,3,125,26,5,44
+AdaBoost,Cost Sensitive,4,130,21,8,41
+AdaBoost,Cost Sensitive,5,120,31,2,47
+AdaBoost,Cost Sensitive,6,128,22,5,45
+AdaBoost,Cost Sensitive,7,125,25,7,43
+AdaBoost,Cost Sensitive,8,126,25,8,41
+AdaBoost,Cost Sensitive,9,127,24,6,43
+AdaBoost,Cost Sensitive,10,129,22,3,46
+AdaBoost,Cost Sensitive,11,120,30,4,46
+AdaBoost,Cost Sensitive,12,128,22,3,47
+AdaBoost,Cost Sensitive,13,124,27,5,44
+AdaBoost,Cost Sensitive,14,131,20,8,41
+AdaBoost,Cost Sensitive,15,132,19,10,39
+AdaBoost,RandomOverSampler,1,126,24,5,45
+AdaBoost,RandomOverSampler,2,134,16,8,42
+AdaBoost,RandomOverSampler,3,125,26,5,44
+AdaBoost,RandomOverSampler,4,130,21,8,41
+AdaBoost,RandomOverSampler,5,120,31,2,47
+AdaBoost,RandomOverSampler,6,128,22,5,45
+AdaBoost,RandomOverSampler,7,125,25,7,43
+AdaBoost,RandomOverSampler,8,126,25,8,41
+AdaBoost,RandomOverSampler,9,127,24,6,43
+AdaBoost,RandomOverSampler,10,129,22,3,46
+AdaBoost,RandomOverSampler,11,120,30,4,46
+AdaBoost,RandomOverSampler,12,128,22,3,47
+AdaBoost,RandomOverSampler,13,124,27,5,44
+AdaBoost,RandomOverSampler,14,131,20,8,41
+AdaBoost,RandomOverSampler,15,132,19,12,37
+AdaBoost,SMOTE,1,127,23,6,44
+AdaBoost,SMOTE,2,135,15,14,36
+AdaBoost,SMOTE,3,125,26,11,38
+AdaBoost,SMOTE,4,130,21,13,36
+AdaBoost,SMOTE,5,120,31,3,46
+AdaBoost,SMOTE,6,128,22,15,35
+AdaBoost,SMOTE,7,125,25,11,39
+AdaBoost,SMOTE,8,126,25,9,40
+AdaBoost,SMOTE,9,127,24,7,42
+AdaBoost,SMOTE,10,129,22,8,41
+AdaBoost,SMOTE,11,120,30,7,43
+AdaBoost,SMOTE,12,128,22,10,40
+AdaBoost,SMOTE,13,125,26,8,41
+AdaBoost,SMOTE,14,132,19,8,41
+AdaBoost,SMOTE,15,132,19,11,38
+AdaBoost,ADASYN,1,126,24,7,43
+AdaBoost,ADASYN,2,135,15,14,36
+AdaBoost,ADASYN,3,125,26,6,43
+AdaBoost,ADASYN,4,130,21,11,38
+AdaBoost,ADASYN,5,120,31,2,47
+AdaBoost,ADASYN,6,128,22,13,37
+AdaBoost,ADASYN,7,126,24,11,39
+AdaBoost,ADASYN,8,126,25,9,40
+AdaBoost,ADASYN,9,127,24,6,43
+AdaBoost,ADASYN,10,129,22,5,44
+AdaBoost,ADASYN,11,121,29,6,44
+AdaBoost,ADASYN,12,128,22,10,40
+AdaBoost,ADASYN,13,125,26,8,41
+AdaBoost,ADASYN,14,132,19,9,40
+AdaBoost,ADASYN,15,132,19,10,39
+AdaBoost,BorderlineSMOTE,1,126,24,8,42
+AdaBoost,BorderlineSMOTE,2,135,15,13,37
+AdaBoost,BorderlineSMOTE,3,126,25,11,38
+AdaBoost,BorderlineSMOTE,4,130,21,11,38
+AdaBoost,BorderlineSMOTE,5,120,31,3,46
+AdaBoost,BorderlineSMOTE,6,128,22,15,35
+AdaBoost,BorderlineSMOTE,7,126,24,9,41
+AdaBoost,BorderlineSMOTE,8,126,25,9,40
+AdaBoost,BorderlineSMOTE,9,127,24,7,42
+AdaBoost,BorderlineSMOTE,10,130,21,6,43
+AdaBoost,BorderlineSMOTE,11,121,29,9,41
+AdaBoost,BorderlineSMOTE,12,128,22,10,40
+AdaBoost,BorderlineSMOTE,13,125,26,8,41
+AdaBoost,BorderlineSMOTE,14,131,20,9,40
+AdaBoost,BorderlineSMOTE,15,133,18,12,37
+AdaBoost,RandomUnderSampler,1,126,24,5,45
+AdaBoost,RandomUnderSampler,2,134,16,10,40
+AdaBoost,RandomUnderSampler,3,125,26,5,44
+AdaBoost,RandomUnderSampler,4,130,21,9,40
+AdaBoost,RandomUnderSampler,5,120,31,2,47
+AdaBoost,RandomUnderSampler,6,128,22,5,45
+AdaBoost,RandomUnderSampler,7,125,25,7,43
+AdaBoost,RandomUnderSampler,8,118,33,8,41
+AdaBoost,RandomUnderSampler,9,127,24,6,43
+AdaBoost,RandomUnderSampler,10,129,22,4,45
+AdaBoost,RandomUnderSampler,11,120,30,4,46
+AdaBoost,RandomUnderSampler,12,128,22,3,47
+AdaBoost,RandomUnderSampler,13,124,27,6,43
+AdaBoost,RandomUnderSampler,14,131,20,8,41
+AdaBoost,RandomUnderSampler,15,132,19,14,35
+AdaBoost,NearMiss,1,111,39,5,45
+AdaBoost,NearMiss,2,121,29,8,42
+AdaBoost,NearMiss,3,102,49,5,44
+AdaBoost,NearMiss,4,109,42,8,41
+AdaBoost,NearMiss,5,109,42,1,48
+AdaBoost,NearMiss,6,115,35,10,40
+AdaBoost,NearMiss,7,109,41,7,43
+AdaBoost,NearMiss,8,106,45,8,41
+AdaBoost,NearMiss,9,109,42,6,43
+AdaBoost,NearMiss,10,117,34,6,43
+AdaBoost,NearMiss,11,105,45,3,47
+AdaBoost,NearMiss,12,106,44,3,47
+AdaBoost,NearMiss,13,111,40,4,45
+AdaBoost,NearMiss,14,115,36,7,42
+AdaBoost,NearMiss,15,115,36,9,40
+AdaBoost,TomekLinks,1,146,4,43,7
+AdaBoost,TomekLinks,2,148,2,44,6
+AdaBoost,TomekLinks,3,140,11,30,19
+AdaBoost,TomekLinks,4,150,1,41,8
+AdaBoost,TomekLinks,5,145,6,38,11
+AdaBoost,TomekLinks,6,147,3,41,9
+AdaBoost,TomekLinks,7,148,2,45,5
+AdaBoost,TomekLinks,8,146,5,35,14
+AdaBoost,TomekLinks,9,149,2,43,6
+AdaBoost,TomekLinks,10,147,4,43,6
+AdaBoost,TomekLinks,11,146,4,40,10
+AdaBoost,TomekLinks,12,147,3,42,8
+AdaBoost,TomekLinks,13,148,3,41,8
+AdaBoost,TomekLinks,14,149,2,42,7
+AdaBoost,TomekLinks,15,144,7,32,17
+AdaBoost,ClusterCentroids,1,85,65,5,45
+AdaBoost,ClusterCentroids,2,90,60,6,44
+AdaBoost,ClusterCentroids,3,79,72,4,45
+AdaBoost,ClusterCentroids,4,81,70,4,45
+AdaBoost,ClusterCentroids,5,75,76,1,48
+AdaBoost,ClusterCentroids,6,100,50,4,46
+AdaBoost,ClusterCentroids,7,56,94,4,46
+AdaBoost,ClusterCentroids,8,110,41,8,41
+AdaBoost,ClusterCentroids,9,81,70,3,46
+AdaBoost,ClusterCentroids,10,81,70,2,47
+AdaBoost,ClusterCentroids,11,96,54,4,46
+AdaBoost,ClusterCentroids,12,92,58,3,47
+AdaBoost,ClusterCentroids,13,67,84,5,44
+AdaBoost,ClusterCentroids,14,122,29,7,42
+AdaBoost,ClusterCentroids,15,97,54,6,43
+AdaBoost,SMOTETomek,1,127,23,6,44
+AdaBoost,SMOTETomek,2,135,15,14,36
+AdaBoost,SMOTETomek,3,125,26,11,38
+AdaBoost,SMOTETomek,4,130,21,13,36
+AdaBoost,SMOTETomek,5,120,31,2,47
+AdaBoost,SMOTETomek,6,128,22,15,35
+AdaBoost,SMOTETomek,7,125,25,11,39
+AdaBoost,SMOTETomek,8,126,25,9,40
+AdaBoost,SMOTETomek,9,127,24,7,42
+AdaBoost,SMOTETomek,10,129,22,8,41
+AdaBoost,SMOTETomek,11,120,30,7,43
+AdaBoost,SMOTETomek,12,128,22,10,40
+AdaBoost,SMOTETomek,13,125,26,8,41
+AdaBoost,SMOTETomek,14,132,19,8,41
+AdaBoost,SMOTETomek,15,132,19,11,38
+AdaBoost,SMOTEENN,1,11,139,0,50
+AdaBoost,SMOTEENN,2,21,129,2,48
+AdaBoost,SMOTEENN,3,13,138,0,49
+AdaBoost,SMOTEENN,4,14,137,0,49
+AdaBoost,SMOTEENN,5,21,130,2,47
+AdaBoost,SMOTEENN,6,30,120,4,46
+AdaBoost,SMOTEENN,7,28,122,1,49
+AdaBoost,SMOTEENN,8,10,141,0,49
+AdaBoost,SMOTEENN,9,10,141,0,49
+AdaBoost,SMOTEENN,10,18,133,2,47
+AdaBoost,SMOTEENN,11,10,140,1,49
+AdaBoost,SMOTEENN,12,31,119,0,50
+AdaBoost,SMOTEENN,13,25,126,1,48
+AdaBoost,SMOTEENN,14,8,143,1,48
+AdaBoost,SMOTEENN,15,22,129,1,48
