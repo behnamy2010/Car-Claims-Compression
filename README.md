@@ -7,7 +7,6 @@ Fraud detection faces a critical hurdle: severe class imbalance. Our work system
 ## 🔗 Links
 
 -   **Access the Paper:** [https://ajmc.aut.ac.ir/article_5913.html](https://ajmc.aut.ac.ir/article_5913.html)
--   **Code & Datasets:** [https://github.com/behnamy2010/Car-Claims-Compression](https://github.com/behnamy2010/Car-Claims-Compression)
 
 ## 🔑 Key Contributions
 
