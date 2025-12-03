@@ -1,14 +1,25 @@
-# Car Claim Fraud – Experimental Pipeline
+# A Systematic Survey and Empirical Comparison of Hybrid Methods for Imbalanced Fraud Detection
 
-Full pipeline for fraud detection on imbalanced car-claim data (Carclaimtxt, AICD):
-- Preprocessing + feature engineering  
-- Repeated Stratified 5×3 CV (15 runs)  
-- Resampling  
-- Metrics: Accuracy, Precision, Recall, F1, ROC-AUC, PR-AUC, FP/TP  
+This repository contains the code and datasets for our paper, "A Systematic Survey and Empirical Comparison of Hybrid Methods for Imbalanced Fraud Detection: Combining Resampling and Machine Learning," published in the AUT Journal of Mathematics and Computing.
 
-## Install
+Fraud detection faces a critical hurdle: severe class imbalance. Our work systematically explores hybrid frameworks that combine resampling techniques with machine learning to overcome this challenge.
 
-```bash
-pip install numpy pandas scikit-learn==1.2.2 scikeras tensorflow \
-            xgboost lightgbm catboost imbalanced-learn \
-            matplotlib seaborn scipy openpyxl
+## 🔗 Links
+
+-   **Access the Paper:** [https://ajmc.aut.ac.ir/article_5913.html](https://ajmc.aut.ac.ir/article_5913.html)
+-   **Code & Datasets:** [https://github.com/behnamy2010/Car-Claims-Compression](https://github.com/behnamy2010/Car-Claims-Compression)
+
+## 🔑 Key Contributions
+
+-   Comprehensive survey of hybrid imbalance learning methods.
+-   Rigorous empirical study on auto insurance fraud data.
+-   Open-source code for reproducibility and further research.
+-   Evidence that resampling strategy profoundly impacts model performance.
+
+## 📜 How to Cite
+
+If you use this research, please cite our paper as follows:
+
+```
+B. Yousefimehr, M. Ghatee, A Systematic Survey and Empirical Comparison of Hybrid Methods for Imbalanced Fraud Detection: Combining Resampling and Machine Learning, AUT Journal of Mathematics and Computing, 2025, DOI: 10.22060/AJMC.2025.24642.1446
+URL: https://ajmc.aut.ac.ir/article_5913.ht```
