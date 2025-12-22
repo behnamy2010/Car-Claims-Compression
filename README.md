@@ -20,5 +20,5 @@ Fraud detection faces a critical hurdle: severe class imbalance. Our work system
 If you use this research, please cite our paper as follows:
 
 ```
-B. Yousefimehr, M. Ghatee, A Systematic Survey and Empirical Comparison of Hybrid Methods for Imbalanced Fraud Detection: Combining Resampling and Machine Learning, AUT Journal of Mathematics and Computing, 2025, DOI: 10.22060/AJMC.2025.24642.1446
-URL: https://ajmc.aut.ac.ir/article_5913.ht```
+Yousefimehr, B., Ghatee, M. (2026). 'A systematic survey and empirical comparison of hybrid methods for imbalanced fraud detection: Combining resampling and machine learning', AUT Journal of Mathematics and Computing, 7(1), pp. 85-116. doi: 10.22060/ajmc.2025.24642.1446
+```
